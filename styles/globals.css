@@ -2,8 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #F9F8F2;
 }
 
 a {
@@ -11,6 +10,54 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+.body, .intro {
+  display: flex;
+  justify-content: center;
+}
+.intro {
+  margin: 2%;
+  padding: 2%;
+  background-color:#3A3C51;
+  align-items: center;
+  border-radius: 10px;
+  max-width: 1018px;
+}
+h1 {
+  color: #AEC3B0;;
+}
+
+.headShot {
+  margin: 3%;
+  width: 40%;
+  border-radius: 50%;
+}
+
+
+.blurb {
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+  width: 50%;
+  margin: 2%;
+  margin-left: 4%;
+}
+
+.blurb > p {
+  color: #ffffff;
+}
+/*
+TODO: fix pic under small screens + add 'nav'
+      - Add skills
+      - add connect icons w links
+      - add about me page
+      - add resume link
+*/
+
+@media only screen and (max-width : 770px) {
+  .intro {
+    flex-direction: column;
+  }
+  .blurb {
+    margin: 2%;
+    width: 80%;
+  }
+
 }
