@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>formal</title>
+    <g id="formal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header" transform="translate(-113.000000, -57.445459)">
+            <rect id="Rectangle" fill="#3A3C51" x="112.652269" y="56.2136785" width="612" height="127"></rect>
+            <g id="name-+-shapes">
+                <path d="M0,0 L0,157.455252 C38.6967888,182.559312 69.2603694,197.443906 91.690742,202.109035 C125.336301,209.106727 181.964902,208.715694 219.816156,183.524003 C257.66741,158.332311 241.693593,139.728502 228.150418,122.001752 C214.607242,104.275001 205.231198,59.4367508 273.937519,71.9519606 C319.741734,80.2954338 353.095894,60.8300303 374,13.5557502 L367.749304,0 L0,0 Z" id="Path-4-Copy" fill="#AEC3B0"></path>
+                <path d="M94,39 L94,196.455252 C132.696789,221.559312 163.260369,236.443906 185.690742,241.109035 C219.336301,248.106727 275.964902,247.715694 313.816156,222.524003 C351.66741,197.332311 335.693593,178.728502 322.150418,161.001752 C308.607242,143.275001 299.231198,98.4367508 367.937519,110.951961 C413.741734,119.295434 449.762561,101.1266 476,56.4454595 L461.749304,39 L94,39 Z" id="Path-4" stroke="#AEC3B0" stroke-width="7"></path>
+                <g id="Name" transform="translate(133.652269, 93.343460)" font-family="FuturaBT-Heavy, Futura" font-size="28" font-weight="600">
+                    <text id="Laura-Celis">
+                        <tspan x="8.72761372" y="27.1019995" fill="#3A3C51">Laura</tspan>
+                        <tspan x="85.48152" y="27.1019995" fill="#F9F8F2"> Celis</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="info-from-header" transform="translate(526.652269, 86.142640)" font-family="Futura-Medium, Futura" font-weight="400">
+                <text id="Software-Developer" font-size="18" fill="#AEC3B0">
+                    <tspan x="1.34773091" y="19.3028192">Software Developer</tspan>
+                </text>
+                <text id="(803)-225-4536-laura" font-size="13" fill="#FFFFFF">
+                    <tspan x="0.347730907" y="41.3028192">(803) 225-4536</tspan>
+                    <tspan x="0.347730907" y="58.3028192">lauracelis18@gmail.com</tspan>
+                    <tspan x="0.347730907" y="75.3028192">www.laurac.dev</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="126" width="612" height="666"></rect>
+        <text id="Skills" font-family="FuturaBT-Heavy, Futura" font-size="15" font-weight="600" fill="#3A3C51">
+            <tspan x="23" y="158">Skills</tspan>
+        </text>
+        <text id="Technical:-Java,-Jav" font-family="Hind-SemiBold, Hind" font-size="13" font-weight="500">
+            <tspan x="32" y="180" fill="#708C73">Technical</tspan>
+            <tspan x="85.898" y="180" font-family="Hind-Medium, Hind" font-weight="400" fill="#708C73">: </tspan>
+            <tspan x="92.346" y="180" font-family="SukhumvitSet-Medium, Sukhumvit Set" font-size="12" font-weight="400" fill="#000000">Java, JavaScript, React.js, Node.js, C++, Spring, mySQL, NoSQL, HTML 5, CSS 3, SASS</tspan>
+            <tspan x="526.818" y="180" font-family="Hind-Medium, Hind" font-weight="400" fill="#708C73"> </tspan>
+        </text>
+        <text id="Tools-&amp;-Platforms:-L" font-family="Hind-SemiBold, Hind" font-size="13" font-weight="500">
+            <tspan x="31" y="201" fill="#708C73">Tools &amp; Platforms</tspan>
+            <tspan x="132.27" y="201" font-family="Hind-Medium, Hind" font-weight="400" fill="#708C73">: </tspan>
+            <tspan x="138.718" y="201" font-family="SukhumvitSet-Medium, Sukhumvit Set" font-size="12" font-weight="400" fill="#000000">Linux/Unix, Git, Splunk, Postman, Google Firebase, Sketch, Adobe XD</tspan>
+        </text>
+        <text id="Education" font-family="FuturaBT-Heavy, Futura" font-size="15" font-weight="600" fill="#3A3C51">
+            <tspan x="23" y="227">Education</tspan>
+        </text>
+        <text id="Bachelor-of-Science" font-family="Hind-SemiBold, Hind" font-size="13" font-weight="500" fill="#708C73">
+            <tspan x="31" y="249">Bachelor of Science | 2020 | Winthrop University</tspan>
+        </text>
+        <text id="Major:-Digital-Infor" font-family="Hind-SemiBold, Hind" font-size="12" font-weight="500" fill="#000000">
+            <tspan x="32" y="271">Major</tspan>
+            <tspan x="62.744" y="271" font-family="Hind-Medium, Hind" font-weight="400">: Digital Information Design - Web Application Development</tspan>
+            <tspan x="32" y="291">Award</tspan>
+            <tspan x="67.148" y="291" font-family="Hind-Medium, Hind" font-weight="400">: Academic Excellence, Service &amp; Leadership Award in Web Application Development - 2020</tspan>
+        </text>
+        <text id="Experience-&amp;-Related" font-family="FuturaBT-Heavy, Futura" font-size="15" font-weight="600" fill="#3A3C51">
+            <tspan x="23" y="323">Experience &amp; Related Work</tspan>
+        </text>
+        <g id="Group-18" transform="translate(34.000000, 333.000000)">
+            <text id="Back-End-Software-En" font-family="Hind-Bold, Hind" font-size="13" font-weight="bold">
+                <tspan x="0" y="14" fill="#708C73">Back-End Software Engineer | Bank of America | </tspan>
+                <tspan x="282.152" y="14" fill="#3A3C51">Current</tspan>
+                <tspan x="326.768" y="14" fill="#708C73"> </tspan>
+            </text>
+            <text id="•-Implemented-back-e" font-family="Hind-Regular, Hind" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="34">• Implemented back-end services with Java and Spring that controlled data payload and responses for API </tspan>
+                <tspan x="0" y="54">calls. </tspan>
+                <tspan x="0" y="74">• Utilized SQL (Oracle) databases with thousands of entries to create, read, update and delete entries. </tspan>
+                <tspan x="0" y="94">• Participated in code reviews, feature deployments and releases under agile methodologies.</tspan>
+            </text>
+        </g>
+        <g id="Group-19" transform="translate(33.000000, 440.000000)">
+            <text id="Team-Lead---Capstone" font-family="Hind-Bold, Hind" font-size="13" font-weight="bold" fill="#708C73">
+                <tspan x="1" y="14">Team Lead - Capstone Project | Winthrop University | 2020 </tspan>
+            </text>
+            <text id="•-Lead-team-of-devel" font-family="Hind-Regular, Hind" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="34">• Lead team of developers and designers to develop a small web application for a local start up. </tspan>
+                <tspan x="0" y="54">• Worked alongside team to pick tech stack for capstone project (Next.js, React.js, Boostrap, Express.js &amp; </tspan>
+                <tspan x="0" y="74">Google Firebase) and followed deliverables and scrum meetings to deliver a successful project on time.</tspan>
+            </text>
+        </g>
+        <g id="Group-20" transform="translate(34.000000, 527.000000)">
+            <text id="Data-Analyst-Intern" font-family="Hind-Bold, Hind" font-size="13" font-weight="bold" fill="#708C73">
+                <tspan x="0" y="14">Data Analyst Intern | Bank of America | 2019 </tspan>
+            </text>
+            <text id="•-Participated-in-im" font-family="Hind-Regular, Hind" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="34">• Participated in implementing automated testing with a Node.js tool (testcafe) that facilitates rapid end-to-</tspan>
+                <tspan x="0" y="54">end testing. </tspan>
+                <tspan x="0" y="74">• Developed a new address verification service by implementing mock requests and utilizing SOAP protocol. </tspan>
+                <tspan x="0" y="94">• Utilized lean-agile methodologies that allowed me to become a proactive member of a team who is not </tspan>
+                <tspan x="0" y="114">afraid of taking initiative.</tspan>
+            </text>
+        </g>
+        <g id="Group-21" transform="translate(34.000000, 654.000000)">
+            <text id="Projects-&amp;-Related-W" font-family="Hind-Bold, Hind" font-size="13" font-weight="bold" fill="#708C73">
+                <tspan x="0" y="14">Projects &amp; Related Work </tspan>
+            </text>
+            <text id="•-Created-web-applic" font-family="Hind-Regular, Hind" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="0" y="34">• Created web applications with both server-side and client-side environments such as Java, Apache Tomcat </tspan>
+                <tspan x="0" y="54">and Node.js.</tspan>
+                <tspan x="0" y="74">• Developed small applications that utilized React.js for front-end dynamic content and frameworks to </tspan>
+                <tspan x="0" y="94">manage MVC practices (Express.js).</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
