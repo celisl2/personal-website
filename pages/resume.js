@@ -22,7 +22,7 @@ export default function Resume() {
                     <h2>Resume</h2>
                     
                     <p><Emoji symbol="💡"/> This resume is in svg format. Here{'\''}s a link to a downloadable PDF fromat: <Link href={pdfResume}><a>PDF Version</a></Link></p>
-                    <img  className="resume" src={"/images/lc.svg"}/>
+                    <img  className="resume" src={"/images/celis-laura.png"}/>
                 </div>
                 
 				<div className="small-screen-other">

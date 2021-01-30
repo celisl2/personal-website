@@ -76,7 +76,7 @@ Home styles
   width: 75%;
   background-color: rgb(35, 30, 37);
   position: absolute;
-  top: 45%;
+  top: 38%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-box-shadow: 0 8px 6px -6px black;
@@ -185,8 +185,8 @@ nav > a > img {
 
 .window2 {
   position: absolute;
-  top: 71%;
-  left: 50%;
+  top: 65%;
+  left: 52%;
   transform: translate(-50%, -50%);
 }
 .typewriter-small, .typewriter-small {
@@ -245,7 +245,6 @@ nav > a > img {
 }
 
 
-
 ul > li > a {
   font-family: 'IBM Plex Mono', 'Courier New', Courier, monospace;
   font-weight: 400;
@@ -289,6 +288,19 @@ ul > li > a {
       width: 40%;
       padding: 5%;
   }
+
+  .home >.window {
+    top: 30%;
+  }
+
+  .window2 {
+    top: 65%;
+    width: 75%;
+  }
+  .special-small {
+    left: 18%;
+    bottom: 3.5%;
+  }
 }
 
 
@@ -308,6 +320,11 @@ ul > li > a {
     width: 75%;
     padding: 5%;
     margin-right: 0;
+  }
+
+  .window2 {
+    top: 68%;
+    width: 75%;
   }
   
 }
