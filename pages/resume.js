@@ -21,13 +21,13 @@ export default function Resume() {
                 <div className="flexResume">
                     <h2>Resume</h2>
                     
-                    <p><Emoji symbol="💡"/> This resume is in svg format. Here{'\''}s a link to a downloadable PDF fromat: <Link href={pdfResume}><a>PDF Version</a></Link></p>
+                    <p><Emoji symbol="💡"/> This resume is in png format. Here{'\''}s a link to a downloadable PDF fromat: <Link href={pdfResume}><a>PDF Version</a></Link></p>
                     <img  className="resume" src={"/images/celis-laura.png"}/>
                 </div>
                 
 				<div className="small-screen-other">
 					<Link href="https://github.com/celisl2"><a><img src={"/images/github.png"}/></a></Link>
-					<Link href="https://www.linkedin.com/in/celisl2/"><a><img src={"/images/linkedin.png"}/></a></Link>
+					<Link href="https://www.linkedin.com/in/celisl2"><a><img src={"/images/linkedin.png"}/></a></Link>
 				</div>
 			</div>
 		</div>

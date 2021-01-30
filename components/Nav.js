@@ -14,7 +14,7 @@ const Nav = () => {
             </nav>
             <div className="contact-icons">
                     <Link href="https://github.com/celisl2"><a><img src={"/images/github.png"}/></a></Link>
-                    <Link href="https://www.linkedin.com/in/celisl2/"><a><img src={"/images/linkedin.png"}/></a></Link>
+                    <Link href="https://www.linkedin.com/in/celisl2"><a><img src={"/images/linkedin.png"}/></a></Link>
                 </div>
         </div>
         

@@ -5,8 +5,8 @@ import Nav from '../components/Nav';
 import Emoji from '../components/Emoji';
 
 const email = 'mailto:lauracelis@gmail.com';
-const linkedIn = 'https://www.linkedin.com/in/celisl2/';
-const twitter = 'https://twitter.com/home';
+const linkedIn = 'https://www.linkedin.com/in/celisl2';
+const twitter = 'https://twitter.com/lc_bleep';
 
 export default function Contact() {
     return (
@@ -37,7 +37,7 @@ export default function Contact() {
                 
 				<div className="small-screen-other">
 					<Link href="https://github.com/celisl2"><a><img src={"/images/github.png"}/></a></Link>
-					<Link href="https://www.linkedin.com/in/celisl2/"><a><img src={"/images/linkedin.png"}/></a></Link>
+					<Link href="https://www.linkedin.com/in/celisl2"><a><img src={"/images/linkedin.png"}/></a></Link>
 				</div>
 			</div>
 		</div>

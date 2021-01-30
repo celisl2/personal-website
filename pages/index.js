@@ -72,7 +72,7 @@ export default function Home() {
         
         <div className="small-screen special-small">
           <Link href="https://github.com/celisl2"><a><img src={"/images/github.png"}/></a></Link>
-          <Link href="https://www.linkedin.com/in/celisl2/"><a><img src={"/images/linkedin.png"}/></a></Link>
+          <Link href="https://www.linkedin.com/in/celisl2"><a><img src={"/images/linkedin.png"}/></a></Link>
         </div>
 
         <div className="custom-shape-divider-bottom-1611938878">

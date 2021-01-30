@@ -23,13 +23,12 @@ export default function About() {
 					</div>
 					<div className="blurb">
 						<p>I am a full stack software developer currently living in Charlotte NC&#46; I love all things related to the web which is why I like to be involved with both&#44; building a UI and setting up the data and logic behind it&#46;</p>
-						<p>I currently work as a back end software engineer where I primarily use Java, Spring and XML contianers. In the past I have worked with Node.js and PHP and I am currentlyu learning Python.</p>
-						<p>Outisde of work, I love colecting records, volunteering for LGTBQ+ organizations and eating a lot of ice cream.</p>
+						<p>I currently work as a back end software engineer where I primarily use Java, Spring and XML containers. In the past I have worked with Node.js and PHP and I am currently learning Python.</p>
+						<p>Outisde of work, I love collecting records, volunteering for LGTBQ+ organizations and eating a lot of ice cream.</p>
 					</div>
 					</div>
-                    
                 </div>
-				<div className="small-screen">
+				<div className="small-screen-other">
 					<Link href="https://github.com/celisl2"><a><img src={"/images/github.png"}/></a></Link>
 					<Link href="https://www.linkedin.com/in/celisl2/"><a><img src={"/images/linkedin.png"}/></a></Link>
 				</div>
