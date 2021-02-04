@@ -22,7 +22,7 @@ export default function Resume() {
                     <h2>Resume</h2>
                     
                     <p><Emoji symbol="💡"/> This resume is in png format. Here{'\''}s a link to a downloadable PDF fromat: <Link href={pdfResume}><a>PDF Version</a></Link></p>
-                    <img  className="resume" src={"/images/celis-laura.png"}/>
+                    <img  className="resume" src={"/images/laura-celis-resume.png"}/>
                 </div>
                 
 				<div className="small-screen-other">
