@@ -5,7 +5,7 @@ import Nav from '../components/Nav';
 import Image from 'next/image';
 import Emoji from '../components/Emoji';
 
-const pdfResume = "https://drive.google.com/file/d/1sGMETgZGaHZK4WPTQbgMLTnT9TUveT9t/view?usp=sharing";
+const pdfResume = "https://drive.google.com/file/d/1l9vatj9zb7Mq9aZWpVidKsLOiTwFTByI/view?usp=sharing";
 
 export default function Resume() {
     return (
