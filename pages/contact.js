@@ -4,7 +4,7 @@ import Link from 'next/link'
 import Nav from '../components/Nav';
 import Emoji from '../components/Emoji';
 
-const email = 'mailto:lauracelis@gmail.com';
+const email = 'mailto:lauracelis18@gmail.com';
 const linkedIn = 'https://www.linkedin.com/in/celisl2';
 const twitter = 'https://twitter.com/lc_bleep';
 
