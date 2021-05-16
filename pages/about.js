@@ -22,8 +22,8 @@ export default function About() {
 						<Image className="headShot" src="/images/headshot.JPG" alt="picture of Laura Celis" width={300} height={300}/>
 					</div>
 					<div className="blurb">
-						<p>I am a full stack software developer currently living in Charlotte NC&#46; I love all things related to the web which is why I like to be involved with both&#44; building a UI and setting up the data and logic behind it&#46;</p>
-						<p>I currently work as a back end software engineer where I primarily use Java, Spring and XML containers. In the past I have worked with Node.js and PHP and I am currently learning Python.</p>
+						<p>I am a full stack software developer currently living in Charlotte NC&#46; I love all things related to the web which is why I like to be involved with both&#44; building a UI and setting up the data and logic behind it&#46; I also consider myself a generalist&#46; I enjoy participating in all aspects of a project- understanding goals, requirement and value, prototyping, designing and developing a product end to end&#46;</p>
+						<p>I currently work as a back end software engineer where I primarily use Java, Spring and XML containers. In the past I have worked with Node.js and React.js, PHP and I am currently learning Python, learning about product management and working on various personal projects.</p>
 						<p>Outisde of work, I love collecting records, volunteering for LGTBQ+ organizations and eating a lot of ice cream.</p>
 					</div>
 					</div>
